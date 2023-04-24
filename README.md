@@ -60,12 +60,10 @@ In summary, my research focused on analyzing the sentiments and trending topics 
 
 ## References: 
 
-AI, Tirendaz. “FIFA World Cup 2022 Tweets.” Kaggle, 8 Dec. 2022, https://www.kaggle.com/
-datasets/tirendazacademy/fifa-world-cup-2022-tweets.
+AI, Tirendaz. “FIFA World Cup 2022 Tweets.” Kaggle, 8 Dec. 2022, https://www.kaggle.com/datasets/tirendazacademy/fifa-world-cup-2022-tweets.
 
 “The Long Shadow of Qatar's Human Rights Abuses.” Freedom House, https://
-freedomhouse.org/article/long-shadow-qatars-human-rightsabuses#:~:text=The%20Deadly%20Cost%20of%20World%20Cup%20Construction&tex
-t=In%20recent%20years%2C%20it%20has,situations%2C%20and%20wage%2Dtheft.
+freedomhouse.org/article/long-shadow-qatars-human-rightsabuses#:~:text=The%20Deadly%20Cost%20of%20World%20Cup%20Construction&text=In%20recent%20years%2C%20it%20has,situations%2C%20and%20wage%2Dtheft.
 
 “Qatar Hosts More than 1.4 Million Visitors during FIFA World Cup™.” Qatar 2022™, https://
 www.qatar2022.qa/en/news/qatar-hosts-more-than-one-million-visitors-during-fifaworld-cup.
